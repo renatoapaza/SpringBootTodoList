@@ -1,3 +1,2 @@
 # Todo List
-
-Ejemlo Sring Boot Web MVC con groovy & postgres
+Ejemplo Spring Boot Web MVC con Groovy & H2
